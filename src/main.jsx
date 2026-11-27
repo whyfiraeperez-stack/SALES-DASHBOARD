@@ -1,6 +1,6 @@
 import React,{useMemo,useState} from 'react';
 import {createRoot} from 'react-dom/client';
-import {ResponsiveContainer,BarChart,Bar,XAxis,YAxis,Tooltip,CartesianGrid,DonutChart,PieChart,Pie,Cell} from 'recharts';
+import {ResponsiveContainer,BarChart,Bar,XAxis,YAxis,Tooltip,CartesianGrid,PieChart,Pie,Cell} from 'recharts';
 import {LayoutDashboard,TrendingUp,MapPin,Target,Layers,RefreshCw,ChevronDown} from 'lucide-react';
 import './style.css';
 
